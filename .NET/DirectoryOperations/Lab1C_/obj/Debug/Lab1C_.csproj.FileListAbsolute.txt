@@ -1,0 +1,6 @@
+E:\projekty\vs\c#\Lab1C_\Lab1C_\bin\Debug\Lab1C_.exe
+E:\projekty\vs\c#\Lab1C_\Lab1C_\bin\Debug\Lab1C_.pdb
+E:\projekty\vs\c#\Lab1C_\Lab1C_\obj\Debug\Lab1C_.csproj.AssemblyReference.cache
+E:\projekty\vs\c#\Lab1C_\Lab1C_\obj\Debug\Lab1C_.csproj.CoreCompileInputs.cache
+E:\projekty\vs\c#\Lab1C_\Lab1C_\obj\Debug\Lab1C_.exe
+E:\projekty\vs\c#\Lab1C_\Lab1C_\obj\Debug\Lab1C_.pdb

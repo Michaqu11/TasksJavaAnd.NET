@@ -1,0 +1,7 @@
+E:\projekty\vs\c#\Lab3C_\Lab3C_\bin\Debug\Lab3C_.exe.config
+E:\projekty\vs\c#\Lab3C_\Lab3C_\bin\Debug\Lab3C_.exe
+E:\projekty\vs\c#\Lab3C_\Lab3C_\bin\Debug\Lab3C_.pdb
+E:\projekty\vs\c#\Lab3C_\Lab3C_\obj\Debug\Lab3C_.csproj.AssemblyReference.cache
+E:\projekty\vs\c#\Lab3C_\Lab3C_\obj\Debug\Lab3C_.csproj.CoreCompileInputs.cache
+E:\projekty\vs\c#\Lab3C_\Lab3C_\obj\Debug\Lab3C_.exe
+E:\projekty\vs\c#\Lab3C_\Lab3C_\obj\Debug\Lab3C_.pdb

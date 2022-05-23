@@ -1,0 +1,17 @@
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\bin\Debug\Lab2WPF.exe.config
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\bin\Debug\Lab2WPF.exe
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\bin\Debug\Lab2WPF.pdb
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\Lab2WPF.csproj.AssemblyReference.cache
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\MainWindow.g.cs
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\App.g.cs
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\Lab2WPF_MarkupCompile.cache
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\Lab2WPF_MarkupCompile.lref
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\MainWindow.baml
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\Lab2WPF.g.resources
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\Lab2WPF.Properties.Resources.resources
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\Lab2WPF.csproj.GenerateResource.cache
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\Lab2WPF.csproj.CoreCompileInputs.cache
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\Lab2WPF.exe
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\Lab2WPF.pdb
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\Dialog.g.cs
+E:\projekty\vs\c#\Lab2WPF\Lab2WPF\obj\Debug\Dialog.baml

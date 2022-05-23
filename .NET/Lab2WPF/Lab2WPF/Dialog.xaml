@@ -1,0 +1,21 @@
+﻿<Window x:Class="Lab2WPF.Dialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab2WPF"
+        mc:Ignorable="d"
+        Title="Dialog" Height="450" Width="450">
+    <Grid>
+        <Label Margin="96,55,96,242">Name:</Label>
+        <TextBox Name="name" Margin="145,55,117.2,331" RenderTransformOrigin="0.5,0.5"></TextBox>
+        <RadioButton Name="file" Margin="145,109,-145,-109">File</RadioButton>
+        <RadioButton Name="directory" Margin="192,109,-192,-109">Directory</RadioButton>
+        <CheckBox Name="readOnly" Margin="145,165,-145,-165">ReadOnly</CheckBox>
+        <CheckBox Name="archive" Margin="145,185,-145,-185">Archive</CheckBox>
+        <CheckBox Name="hidden" Margin="145,208,-145,-208">Hidden</CheckBox>
+        <CheckBox Name="systemBtn" Margin="145,230,-145,-230">System</CheckBox>
+        <Button Name="ok" Margin="84,288,256.2,87" Click="ok_Click">Ok</Button>
+        <Button Name="cancel" Margin="223,288,117.2,87" Click="cancel_Click" RenderTransformOrigin="0.252,1.161">Cancel</Button>
+    </Grid>
+</Window>
