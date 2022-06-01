@@ -1,0 +1,42 @@
+Zad1a
+
+diesel = 95,25
+petrol = 83,9015873015873
+
+
+Zad1b
+
+diesel = 95,25
+petrol = 83,9015873015873
+
+
+myCars sorted by horsePower:
+Model: A6, Year: 2011, Engine: [ TDI 2 175 hp]
+Model: A6, Year: 2012, Engine: [ FSI 2,5 187 hp]
+Model: E250, Year: 2009, Engine: [ CGI 1,8 204 hp]
+Model: A6, Year: 2012, Engine: [ FSI 2,8 220 hp]
+Model: E350, Year: 2009, Engine: [ CGI 3,5 292 hp]
+Model: A6, Year: 2012, Engine: [ TFSI 3 295 hp]
+Model: A6, Year: 2011, Engine: [ TDI 3 309 hp]
+Model: S6, Year: 2012, Engine: [ TFSI 4 414 hp]
+Model: S8, Year: 2012, Engine: [ TFSI 4 513 hp]
+
+
+
+sort by model
+Model: A6, Year: 2012, Engine: [ FSI 2,5 187 hp]
+Model: A6, Year: 2012, Engine: [ FSI 2,8 220 hp]
+Model: A6, Year: 2012, Engine: [ TFSI 3 295 hp]
+Model: A6, Year: 2011, Engine: [ TDI 2 175 hp]
+Model: A6, Year: 2011, Engine: [ TDI 3 309 hp]
+Model: E250, Year: 2009, Engine: [ CGI 1,8 204 hp]
+Model: E350, Year: 2009, Engine: [ CGI 3,5 292 hp]
+Model: S6, Year: 2012, Engine: [ TFSI 4 414 hp]
+Model: S8, Year: 2012, Engine: [ TFSI 4 513 hp]
+
+
+Search cars with motor 3.0l
+Model: A6, Year: 2012, Engine: [ TFSI 3 295 hp]
+Model: A6, Year: 2011, Engine: [ TDI 3 309 hp]
+
+
